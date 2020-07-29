@@ -1,0 +1,12 @@
+﻿2. ClassOptions
+
+i>Properties
+
+- Properties can be modified using full property.
+- Constructor is used so that at least it allows whatvalue should be provided while instatntiating class also to 
+	reduce code while instializing object
+-If user doesnot want to provide values during instantiation of classes then we can create a constructor which
+	doesnot accept any parameters. This is called method overloading. Console.Writeline() is a good example of 
+	method overloading
+
+*Prop Tip: In classes use auto property by default and move to full property when needed
