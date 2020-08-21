@@ -23,8 +23,6 @@ namespace ConsoleUI
         }
 
 
-
-
         //The underscore _age represents private value that implies it shouldnot be modified directly.
         //The onmly place we should manipulate is inside of age property in this case
         private int _age;
