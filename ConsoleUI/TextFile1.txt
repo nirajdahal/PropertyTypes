@@ -9,4 +9,4 @@ i>Properties
 	doesnot accept any parameters. This is called method overloading. Console.Writeline() is a good example of 
 	method overloading
 
-*Prop Tip: In classes use auto property by default and move to full property when needed
+*Prop Tip: In classes use auto property by default and move to full property when needed.
